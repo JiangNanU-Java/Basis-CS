@@ -1,3 +1,3 @@
-# SummerMVC
+# Basic Computer Knowledge
 
-> Artifical SpringMVC
+> Reading and studying computer knowledge.
